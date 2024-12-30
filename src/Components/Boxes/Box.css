@@ -1,0 +1,11 @@
+.weather-box {
+    background: rgba(238,238,238,0.1);
+    display: flex;
+    align-items: center;
+    /* gap: 8px; */
+    flex-direction: column;
+    box-shadow: 0px 0px 7px 0.1px rgba(0, 0, 0, 0.1);
+    padding: 8px 32px;
+    border-radius: 16px;
+   
+}

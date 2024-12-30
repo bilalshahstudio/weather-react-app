@@ -1,0 +1,15 @@
+.main-weather-widget {
+    display: flex;
+    gap: 18px;
+}
+
+.main-weather-city {
+    font-size: 32px;
+    line-height: 32px;
+    font-weight: bolder;
+    margin-bottom: 12px;
+}
+
+.main-widget-icon-container {
+    padding-inline: 30px;
+}
