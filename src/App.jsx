@@ -65,7 +65,6 @@ function App() {
           placeholder="enter city name"
           onKeyDown={onKeyDownHandler}
         />
-
         <div className="widget-container">
           <MainWeatherComponent data={data?.[0]} city={city} />
           <Flex gap={20} className="widget-weather-days">
